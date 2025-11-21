@@ -22,7 +22,7 @@
 <img src="attachments/pen-sample.jpg" width="50%">
 
 
-## 2. 注意事項
+## 2. お願い
 使用後は以下の状態に戻っていることを確認してください。
 
 ### 全体
