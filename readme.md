@@ -8,20 +8,29 @@
 作成者: [Jumpei Saito](https://jun-robot.github.io/about/)
 
 ## 1. できること
-- 3Dプリント
-- レーザーカット
-  - [使い方](laser/laser.md)
-- カッター
-- ペンプロッタ
+### 3Dプリント
+<img src="attachments/3dprint-laser-sample.jpg" width="50%">
+
+### レーザーカット [使用方法](laser/laser.md)
+<img src="attachments/laser-sample.jpg" width="50%">
+
+### カッター
+<img src="attachments/cutter-sample2.jpg" width="45%">
+<img src="attachments/cutter-sample1.jpg" width="45%">
+
+### ペンプロッタ
+<img src="attachments/pen-sample.jpg" width="50%">
+
 
 ## 2. 注意事項
 使用後は以下の状態に戻っていることを確認してください。
 
-- 全体
-![使用後の状態](attachments/after_use.JPG)
+### 全体
+<!-- ![使用後の状態](attachments/after_use.JPG) -->
+<img src="attachments/after_use.jpg" width="50%">
 
-- ツールヘッドを3Dプリントヘッドに戻す
-![ツールヘッドの戻し方](attachments/after_toolhead.JPG)
+### ツールヘッドを3Dプリントヘッドに戻す
+<img src="attachments/after_toolhead.jpg" width="50%">
 
-- プラットフォームを元に戻す
-![プラットフォームの戻し方](attachments/after_platform.JPG)
+### プラットフォームを元に戻す
+<img src="attachments/after_platform.jpg" width="50%">
