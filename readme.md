@@ -5,6 +5,8 @@
 
 ソースは[GitHubリポジトリ](https://github.com/Jun-robot/Bambu-Lab-H2D-Tutorial)で公開しています。プルリク大歓迎です。
 
+作成者: [Jumpei Saito](https://jun-robot.github.io/about/)
+
 ## 1. できること
 - 3Dプリント
 - レーザーカット
