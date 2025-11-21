@@ -1,4 +1,4 @@
-# Bambu Lab H2D Laser Tutorial
+# Bambu Lab H2D Laser Tutorial (非公式)
 このドキュメントでは、Bambu Lab H2Dのレーザーカッター機能の基本的な使い方と設定について説明します。
 
 [全体の概要のページへ戻る](../readme.md)
@@ -13,10 +13,7 @@
 
 <img src="attachments/laser-parts.JPG" width="50%">
 
-基本的には、「[Bambu Lab レーザーモジュール 10W クイックスタートガイド](https://csm.bblcdn.com/hub/70839aa962614bcd8780bff4d1e87dc8.pdf)」に従ってください。
 
-**レーザープラットフォームを装着**のページから始めます。それ以前の手順は実施済みです。
-この先の章題はクイックスタートガイドに対応しています。
 
 ### 2. 最初の準備
 
@@ -30,6 +27,19 @@
 隣の台に移動させると良いです。本体に接続しているケーブルに負荷がかからないように注意してください。
 
 <img src="attachments/open-top-cover1.JPG" width="50%">
+
+上蓋を開けます。
+
+<img src="attachments/open-top-cover2.JPG" width="45%">
+<img src="attachments/open-top-cover3.JPG" width="45%">
+
+
+ーーー
+
+この先は基本的に、「[Bambu Lab レーザーモジュール 10W クイックスタートガイド](https://csm.bblcdn.com/hub/70839aa962614bcd8780bff4d1e87dc8.pdf)」に従ってください。
+
+**レーザープラットフォームを装着**のページから始めます。それ以前の手順は実施済みです。
+この先の章題はクイックスタートガイドに対応しています。
 
 ### 2. レーザープラットフォームの装着
 3Dプリント用のプラットフォームを取り外します。
@@ -48,10 +58,31 @@
 <img src="attachments/attach-laser-module0.JPG" width="45%">
 <img src="attachments/attach-laser-module1.JPG" width="45%">
 
+レーザーモジュールを装着します。
+
+ストンっとはまるイメージです。
+
+<img src="attachments/attach-laser-module2.JPG" width="45%">
+<img src="attachments/attach-laser-module3.JPG" width="45%">
+
+レーザーモジュールのロックハンドルを下げて固定します。
+
+<img src="attachments/attach-laser-module4.JPG" width="45%">
+
+カバーを外してレーザーモジュールのケーブルを接続します。
+
+<img src="attachments/attach-laser-module5.JPG" width="45%">
+<img src="attachments/attach-laser-module6.JPG" width="45%">
+
+### 4. エラチューブ装着-H2D
+チューブを取り付けます。
+
+<img src="attachments/attach-elastic-tube0.JPG" width="45%">
+<img src="attachments/attach-elastic-tube1.JPG" width="45%">
 
 
-
-
+<img src="attachments/attach-elastic-tube2.JPG" width="45%">
+<img src="attachments/attach-elastic-tube3.JPG" width="45%">
 
 
 
