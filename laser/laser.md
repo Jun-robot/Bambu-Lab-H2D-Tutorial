@@ -84,13 +84,22 @@
 <img src="attachments/attach-elastic-tube2.JPG" width="45%">
 <img src="attachments/attach-elastic-tube3.JPG" width="45%">
 
+> [!NOTE]
+> エラチューブを取り外すときは、チューブを引っ張るのではなく、コネクタ部分を押して外してください。
 
 
+### 5. キャリブレーション
+レーザーモジュールのキャリブレーションを行います。
+画面の指示に従って、進めていきます。
 
+<img src="attachments/calibration0.JPG" width="45%">
+<img src="attachments/calibration1.JPG" width="45%">
 
+<img src="attachments/calibration2.JPG" width="45%">
+<img src="attachments/calibration3.JPG" width="45%">
 
-
-
+<img src="attachments/calibration4.JPG" width="45%">
+<img src="attachments/calibration5.JPG" width="45%">
 
 
 ## ソフトウェアの使い方
@@ -129,3 +138,16 @@ masason-foundationアカウントでログインしてください。
 <img src="attachments/prepare4.png" width="50%">
 
 <img src="attachments/prepare5.png" width="50%">
+
+### 3. レーザーカットの実行
+
+印刷開始する前に、空気清浄機の電源を入れます。
+
+<img src="attachments/air-cleaner0.JPG" width="45%">
+<img src="attachments/air-cleaner1.JPG" width="45%">
+
+
+プリンタの前に行き、「次へ」をタップします。
+
+<img src="attachments/print0.JPG" width="45%">
+<img src="attachments/print1.JPG" width="45%">
