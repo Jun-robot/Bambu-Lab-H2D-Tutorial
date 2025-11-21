@@ -6,13 +6,58 @@
 
 ## ハードウェアセットアップBambu-Lab-H2D-Tutorial
 ### 1. 準備
-画像の3点を準備します。
+以下のの3点を準備します。
+- レーザープラットフォーム
+- レーザーモジュール 10W
+- レーザーモジュールのクイックスタートガイド
 
+<img src="attachments/laser-parts.JPG" width="50%">
 
-### 2. レーザーモジュールの取り付け
 基本的には、「[Bambu Lab レーザーモジュール 10W クイックスタートガイド](https://csm.bblcdn.com/hub/70839aa962614bcd8780bff4d1e87dc8.pdf)」に従ってください。
 
-**レーザープラットフォームを装着**のページから始めてください。
+**レーザープラットフォームを装着**のページから始めます。それ以前の手順は実施済みです。
+この先の章題はクイックスタートガイドに対応しています。
+
+### 2. 最初の準備
+
+> [!IMPORTANT]
+> 絶対に3Dプリンタの電源を切ってから作業を行ってください。
+
+上蓋を開けるために、AMS2 を移動させます。
+
+<img src="attachments/open-top-cover0.JPG" width="50%">
+
+隣の台に移動させると良いです。本体に接続しているケーブルに負荷がかからないように注意してください。
+
+<img src="attachments/open-top-cover1.JPG" width="50%">
+
+### 2. レーザープラットフォームの装着
+3Dプリント用のプラットフォームを取り外します。
+
+<img src="attachments/attach-laser-platform0.JPG" width="50%">
+
+レーザープラットフォームを装着します。
+
+<img src="attachments/attach-laser-platform1.JPG" width="45%">
+<img src="attachments/attach-laser-platform2.JPG" width="45%">
+
+### 3. レーザーモジュールを装着-H2D
+
+フロントカバーを取り外します。
+
+<img src="attachments/attach-laser-module0.JPG" width="45%">
+<img src="attachments/attach-laser-module1.JPG" width="45%">
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -20,30 +65,36 @@
 ## ソフトウェアの使い方
 ### 1. Bambu Suiteのインストール
 
-https://bambulab.com/en/download/suite からBambu Suiteをダウンロードしてインストールします。
+[bambulab.com/en/download/suite](https://bambulab.com/en/download/suite) からBambu Suiteをダウンロードしてインストールします。
 
 masason-foundationアカウントでログインしてください。
 
-![ログイン後の画面](attachments/login.png)
+> [!NOTE]
+> コンシェルジュさんに聞くと、IDとパスワードを教えてもらえます。
+
+
+<img src="attachments/login.png" width="50%">
+
 
 ### 2. レーザーカットの設定
 1. Bambu Studioを起動し、左上の「新しいプロジェクト」をクリックします。
 2. 右上の「プリンターの選択」から「Bambu Lab H2D Laser」を選択します。
 
-![](attachments/prepare0.png)
+<img src="attachments/prepare0.png" width="50%">
+
 
 
 3. 画面左側の「画像」をクリックし、レーザーカットしたい画像をインポートします。
 4. 画像を選択し、フィルタリングを「Relief」にします
 
-![](attachments/prepare1.png)
+<img src="attachments/prepare1.png" width="50%">
 
 5. 「準備する」をクリック
 6. 上の「カメラアイコン」をクリックして、レーザーカットのプレビューを確認します。
 
-![alt text](attachments/prepare2.png)
-![alt text](attachments/prepare3.png)
+<img src="attachments/prepare2.png" width="50%">
+<img src="attachments/prepare3.png" width="50%">
 
-![](attachments/prepare4.png)
+<img src="attachments/prepare4.png" width="50%">
 
-![](attachments/prepare5.png)
+<img src="attachments/prepare5.png" width="50%">
