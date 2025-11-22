@@ -1,6 +1,8 @@
 # Bambu Lab H2D Laser Tutorial (非公式)
 このドキュメントでは、Bambu Lab H2Dのレーザーカッター機能の基本的な使い方と設定について説明します。
 
+孫正義育英財団渋谷Infinity設置のBambu Lab H2D 3Dプリンタを対象としています。
+
 [全体の概要のページへ戻る](../readme.md)
 
 

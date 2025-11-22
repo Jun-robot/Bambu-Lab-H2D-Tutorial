@@ -8,7 +8,7 @@
 作成者: [Jumpei Saito](https://jun-robot.github.io/about/)
 
 ## 1. できること
-### 3Dプリント
+### 3Dプリント [使用方法](3dprinter/3dprinter.md)
 <img src="attachments/3dprint-laser-sample.jpg" width="50%">
 
 ### レーザーカット [使用方法](laser/laser.md)
