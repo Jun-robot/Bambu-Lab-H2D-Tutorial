@@ -20,6 +20,8 @@ find "${TARGET_DIR}" -type f \( -iname "*.JPG" -o -iname "*.jpg" \) -print0 |
   while IFS= read -r -d '' file; do
     echo "Processing: $file"
 
+    mogrify -auto-orient "$file"
+
     # 1. 大きすぎる画像はリサイズ（アスペクト比を保ちつつ、MAX_SIZE以内に収める）
     #    『>』 を付けることで、既に小さい画像はリサイズしない
     mogrify -resize "${MAX_SIZE}>" "$file"
